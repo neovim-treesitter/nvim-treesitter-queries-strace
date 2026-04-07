@@ -1,8 +1,7 @@
 {
-  "url": "https://github.com/sigmaSd/tree-sitter-strace",
-  "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "parser_version": "ac874ddfcc08d689fee1f4533789e06d88388f29",
+  "location": null,
   "lang": "strace",
-  "location": null
+  "url": "https://github.com/sigmaSd/tree-sitter-strace",
+  "semver": false
 }
